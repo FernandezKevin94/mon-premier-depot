@@ -1,4 +1,4 @@
 Voici mes premiers exercices
-En m'exerçant sur Open Classroom
-J'utilise Visual Studio Code
-J'apprends les bases de l'Html
+en m'exerçant sur Open Classroom
+j'utilise Visual Studio Code
+j'apprends les bases de l'Html
